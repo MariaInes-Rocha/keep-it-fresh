@@ -5,7 +5,8 @@ https://www.figma.com/proto/JJsWJ8G9oy1ATUw4sjkX1S/Keepitfresh?node-id=0-1&t=zlD
 
 O projeto KeepItFresh consiste numa aplicação móvel desenvolvida no âmbito da unidade curricular de Interação Pessoa-Máquina (IPM), tendo como principal objetivo ajudar os utilizadores na organização dos seus alimentos (em casa, no frigorífico ou na despensa) e na promoção de práticas de consumo mais eficientes e sustentáveis para evitar o desperdício alimentar.  
 
-Funcionalidades Principais
+## Funcionalidades Principais
+
 Registo de Alimentos: Permite adicionar produtos indicando o nome, quantidade, datas de validade e de abertura, bem como o local de armazenamento (frigorífico, congelador ou despensa).  
 
 Gestão de Validades: Ajuda a consultar rapidamente quais os itens que estão prestes a expirar para que o utilizador possa priorizar o seu consumo.  
